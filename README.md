@@ -30,4 +30,4 @@ Theoriticly, it is not if you change process information, title and add junk cod
 `Base is not complated yet so stay triggered for any updates. Don't forget to credit if you are making cheats with this base. Thanks for everything good bye!`
 
 >Core Out!
-[![Core LOGO by Lufizy](https://i.postimg.cc/05mcgx9N/Core-Cheat-Logo.png"Core LOGO by Lufizy")](https://lysep.com "Core LOGO by Lufizy")
+![](https://i.postimg.cc/05mcgx9N/Core-Cheat-Logo.png)
