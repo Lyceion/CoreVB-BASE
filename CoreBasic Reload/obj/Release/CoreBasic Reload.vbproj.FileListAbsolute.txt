@@ -1,0 +1,11 @@
+C:\Users\Root\source\repos\CoreBasic Reload\CoreBasic Reload\bin\Release\CoreBasic Reload.exe.config
+C:\Users\Root\source\repos\CoreBasic Reload\CoreBasic Reload\bin\Release\CoreBasic Reload.exe
+C:\Users\Root\source\repos\CoreBasic Reload\CoreBasic Reload\bin\Release\CoreBasic Reload.pdb
+C:\Users\Root\source\repos\CoreBasic Reload\CoreBasic Reload\bin\Release\CoreBasic Reload.xml
+C:\Users\Root\source\repos\CoreBasic Reload\CoreBasic Reload\obj\Release\CoreBasic_Reload.Resources.resources
+C:\Users\Root\source\repos\CoreBasic Reload\CoreBasic Reload\obj\Release\CoreBasic Reload.vbproj.GenerateResource.cache
+C:\Users\Root\source\repos\CoreBasic Reload\CoreBasic Reload\obj\Release\CoreBasic Reload.vbproj.CoreCompileInputs.cache
+C:\Users\Root\source\repos\CoreBasic Reload\CoreBasic Reload\obj\Release\CoreBasic Reload.exe
+C:\Users\Root\source\repos\CoreBasic Reload\CoreBasic Reload\obj\Release\CoreBasic Reload.xml
+C:\Users\Root\source\repos\CoreBasic Reload\CoreBasic Reload\obj\Release\CoreBasic Reload.pdb
+C:\Users\Root\source\repos\CoreBasic Reload\CoreBasic Reload\obj\Release\CoreBasic Reload.vbprojAssemblyReference.cache
